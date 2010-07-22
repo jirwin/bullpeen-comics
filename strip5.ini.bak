@@ -1,0 +1,35 @@
+# Strip5.ini
+#
+# A configuration script for layout of text on a cartoon strip
+# using the ComicBot IRC Bot by Paul Mutton.
+# ComicBot is built using the PircBot Java IRC Bot Framework
+# http://www.jibble.org/pircbot.php
+
+# (note that nicks are not drawn yet!)
+
+background = strip5.png
+datestamp = 14,268
+
+bubble1 = 29,36,157,80
+nick1 = 0,0,10,10
+maxlength1 = 100
+
+bubble2 = 68,131,120,45
+nick2 = 0,0,10,10
+maxlength2 = 60
+
+bubble3 = 218,38,162,76
+nick3 = 0,0,10,10
+maxlength3 = 100
+
+bubble4 = 269,133,113,37
+nick4 = 0,0,10,10
+maxlength4 = 60
+
+bubble5 = 428,28,140,67
+nick5 = 0,0,10,10
+maxlength5 = 100
+
+bubble6 = 463,114,106,56
+nick6 = 0,0,10,10
+maxlength6 = 60
