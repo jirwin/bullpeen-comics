@@ -1,0 +1,39 @@
+# Strip2.ini
+#
+# A configuration script for layout of text on a cartoon strip
+# using the ComicBot IRC Bot by Paul Mutton.
+# ComicBot is built using the PircBot Java IRC Bot Framework
+# http://www.jibble.org/pircbot.php
+
+# (note that nicks are not drawn yet!)
+
+background = strip2.png
+datestamp = 4,250
+
+bubble1 = 7,34,188,45
+nick1 = 0,0,10,10
+maxlength1 = 90
+
+bubble2 = 25,107,91,31
+nick2 = 0,0,10,10
+maxlength2 = 20
+
+bubble3 = 204,34,188,57
+nick3 = 0,0,10,10
+maxlength3 = 100
+
+bubble4 = 203,99,113,59
+nick4 = 0,0,10,10
+maxlength4 = 100
+
+bubble5 = 400,35,190,56
+nick5 = 0,0,10,10
+maxlength5 = 100
+
+bubble6 = 425,107,77,42
+nick6 = 0,0,10,10
+maxlength6 = 30
+
+bubble7 = 467,166,124,71
+nick7 = 0,0,10,10
+maxlength7 = 100
